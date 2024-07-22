@@ -5,8 +5,8 @@ import (
 	"errors"
 	"io/ioutil"
 
-	"barista.run/modules/weather"
-	"barista.run/modules/weather/openweathermap"
+	"github.com/soumya92/barista/modules/weather"
+	"github.com/soumya92/barista/modules/weather/openweathermap"
 )
 
 // ErrAPIKeyMissing is returned by New if the API key is missing in the config.

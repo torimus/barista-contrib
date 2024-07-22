@@ -3,7 +3,7 @@ package openweathermap
 import (
 	"testing"
 
-	"barista.run/modules/weather/openweathermap"
+	"github.com/soumya92/barista/modules/weather/openweathermap"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

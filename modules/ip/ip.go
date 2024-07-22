@@ -4,11 +4,11 @@ import (
 	"net"
 	"time"
 
-	"barista.run/bar"
-	"barista.run/base/notifier"
-	"barista.run/base/value"
-	"barista.run/outputs"
-	"barista.run/timing"
+	"github.com/soumya92/barista/bar"
+	"github.com/soumya92/barista/base/notifier"
+	"github.com/soumya92/barista/base/value"
+	"github.com/soumya92/barista/outputs"
+	"github.com/soumya92/barista/timing"
 )
 
 // Provider provides the current public ip of the client.

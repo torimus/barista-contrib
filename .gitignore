@@ -1,3 +1,4 @@
+/go.sum
 .bundle/
 Gemfile.lock
 _site/

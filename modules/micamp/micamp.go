@@ -12,11 +12,11 @@ import (
 	"math"
 	"time"
 
-	"barista.run/bar"
-	"barista.run/base/value"
-	"barista.run/colors"
-	"barista.run/outputs"
-	"barista.run/timing"
+	"github.com/soumya92/barista/bar"
+	"github.com/soumya92/barista/base/value"
+	"github.com/soumya92/barista/colors"
+	"github.com/soumya92/barista/outputs"
+	"github.com/soumya92/barista/timing"
 )
 
 type provider interface {

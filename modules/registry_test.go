@@ -4,9 +4,9 @@ import (
 	"errors"
 	"testing"
 
-	"barista.run/bar"
-	"barista.run/modules/static"
-	"barista.run/outputs"
+	"github.com/soumya92/barista/bar"
+	"github.com/soumya92/barista/modules/static"
+	"github.com/soumya92/barista/outputs"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

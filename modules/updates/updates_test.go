@@ -3,9 +3,9 @@ package updates
 import (
 	"testing"
 
-	"barista.run/bar"
-	"barista.run/outputs"
-	testBar "barista.run/testing/bar"
+	"github.com/soumya92/barista/bar"
+	"github.com/soumya92/barista/outputs"
+	testBar "github.com/soumya92/barista/testing/bar"
 	"github.com/stretchr/testify/assert"
 )
 

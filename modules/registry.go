@@ -1,6 +1,6 @@
 package modules
 
-import "barista.run/bar"
+import "github.com/soumya92/barista/bar"
 
 // Registry registers bar modules. It can be used to easily register modules
 // until an error is encountered and pass them to `barista.Run`. Modules from

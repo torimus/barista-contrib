@@ -13,8 +13,8 @@ import (
 	"testing"
 	"time"
 
-	testbar "barista.run/testing/bar"
-	"barista.run/timing"
+	testbar "github.com/soumya92/barista/testing/bar"
+	"github.com/soumya92/barista/timing"
 	"github.com/stretchr/testify/require"
 )
 

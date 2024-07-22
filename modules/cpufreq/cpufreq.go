@@ -3,11 +3,11 @@ package cpufreq
 import (
 	"time"
 
-	"barista.run/bar"
-	"barista.run/base/notifier"
-	"barista.run/base/value"
-	"barista.run/outputs"
-	"barista.run/timing"
+	"github.com/soumya92/barista/bar"
+	"github.com/soumya92/barista/base/notifier"
+	"github.com/soumya92/barista/base/value"
+	"github.com/soumya92/barista/outputs"
+	"github.com/soumya92/barista/timing"
 	"github.com/martinlindhe/unit"
 	"github.com/prometheus/procfs/sysfs"
 )
